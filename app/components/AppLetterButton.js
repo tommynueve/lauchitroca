@@ -1,11 +1,12 @@
 import React from 'react';
-import { StyleSheet, TouchableOpacity, Text } from 'react-native';
+import { StyleSheet, Text } from 'react-native';
+import { TouchableOpacity } from 'react-native-gesture-handler';
 
 import defaultStyles from '../config/styles';
 
 function AppLetterButton({ letter, onPress }) {
     return (
-        <TouchableOpacity style={styles.button} onPressIn={onPress}>
+        <TouchableOpacity style={styles.button} onPress={onPress}>
             <Text style={styles.text}>{letter}</Text>
         </TouchableOpacity>
     );

@@ -7,10 +7,8 @@ import GuessingSection from '../components/GuessingSection';
 const initialValues = [
     { value: 'ahi', visible: false },
     { value: 'ali', visible: false },
-    { value: 'cai', visible: false },
     { value: 'cal', visible: false },
     { value: 'lua', visible: false },
-    { value: 'uci', visible: false },
     { value: 'cali', visible: false },
     { value: 'chai', visible: false },
     { value: 'chal', visible: false },
@@ -20,12 +18,9 @@ const initialValues = [
     { value: 'culi', visible: false },
     { value: 'hila', visible: false },
     { value: 'luca', visible: false },
-    { value: 'auchi', visible: false },
-    { value: 'chaul', visible: false },
     { value: 'chula', visible: false },
     { value: 'ichal', visible: false },
     { value: 'lucha', visible: false },
-    { value: 'chilau', visible: false },
     { value: 'lauchi', visible: false },
 ];
 
