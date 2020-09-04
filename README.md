@@ -7,7 +7,7 @@ It is a one weekend project, don't expect much more!
 ### Features
 
 Find all the hidden words based on a set of given letters.
-Selected the letters and click send to attempt a guess.
+Select the letters and click send to attempt a guess.
 Click an already selected letter to unselected it.
 
 ### Performance
